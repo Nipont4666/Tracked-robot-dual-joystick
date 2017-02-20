@@ -1,6 +1,6 @@
 /*
  2.4G Transmitter nRF24L01 module Arduino
- Control dual motors via L298N
+ Joystick control dual motors via L298N
  Written by: Pason Tanpaiboon
  May 2016
  Version.1.3

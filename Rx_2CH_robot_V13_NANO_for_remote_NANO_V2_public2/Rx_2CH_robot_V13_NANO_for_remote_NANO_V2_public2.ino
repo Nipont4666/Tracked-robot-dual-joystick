@@ -1,7 +1,7 @@
 /*
 
  2.4G Transmitter nRF24L01 module Arduino
- 2 Channel Radio Control + L298N dual motor control for Tracked Robot
+ 2 Channel Joystick Radio Control + L298N dual motor control for Tracked Robot
  Written by: Pason Tanpaiboon
  June 2016
  Version.1.2
